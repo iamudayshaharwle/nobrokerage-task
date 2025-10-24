@@ -45,7 +45,7 @@ README.md
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/iamudayshaharwale/nobrokerage-chatbot.git
+git clone https://github.com/iamudayshaharwale/nobrokerage-task.git
 cd nobrokerage-chatbot
 
 2️⃣ Create Virtual Environment
