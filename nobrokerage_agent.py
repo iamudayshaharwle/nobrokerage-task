@@ -95,6 +95,7 @@ def generate_answer(state: GraphState) -> Dict[str, str]:
         Based on the SQL query result below, answer the user's question clearly and concisely.
         if the result is empty or does not contain relevant information, respond with "No properties available currently for the given information".
         Provide the answer in a conversational manner, keep response under 6-8 lines maximum.
+        if user asks casullty questions, respond in a friendly manner.
 
         Question: {question}
         Result: {result}

@@ -1,7 +1,8 @@
 langchain
 langgraph
 pandas
-langchain-experimental
 langchain-google-genai
 python-dotenv
 streamlit
+langchain-community
+langchain-core
